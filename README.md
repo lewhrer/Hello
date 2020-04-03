@@ -1,1 +1,1 @@
-# Repositories poems of Taras Shevchenko.
+# Repositorie poems of Taras Shevchenko.
